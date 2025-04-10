@@ -2,7 +2,7 @@
 
 A modern take on the classic Flappy Bird game with a 90s arcade aesthetic, powered by Q-learning reinforcement learning. This project combines retro-style graphics with an AI agent that learns to navigate through pipes, offering both training and human-playable modes.
 
-<img src="gameplay.gif" alt="Gameplay GIF" width="300">
+<img src="gameplay.gif" alt="Gameplay GIF" width="300" align="centre">
 
 ## Project Description
 
